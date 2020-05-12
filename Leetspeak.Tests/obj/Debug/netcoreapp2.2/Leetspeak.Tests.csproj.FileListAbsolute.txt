@@ -1,0 +1,16 @@
+D:\Desktop\C#\leetspeak\Leetspeak.Solution\leetspeak.tests\obj\Debug\netcoreapp2.2\Leetspeak.Tests.csprojAssemblyReference.cache
+D:\Desktop\C#\leetspeak\Leetspeak.Solution\leetspeak.tests\obj\Debug\netcoreapp2.2\Leetspeak.Tests.AssemblyInfoInputs.cache
+D:\Desktop\C#\leetspeak\Leetspeak.Solution\leetspeak.tests\obj\Debug\netcoreapp2.2\Leetspeak.Tests.AssemblyInfo.cs
+D:\Desktop\C#\leetspeak\Leetspeak.Solution\leetspeak.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Desktop\C#\leetspeak\Leetspeak.Solution\leetspeak.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Desktop\C#\leetspeak\Leetspeak.Solution\leetspeak.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Desktop\C#\leetspeak\Leetspeak.Solution\leetspeak.tests\bin\Debug\netcoreapp2.2\Leetspeak.Tests.deps.json
+D:\Desktop\C#\leetspeak\Leetspeak.Solution\leetspeak.tests\bin\Debug\netcoreapp2.2\Leetspeak.Tests.runtimeconfig.json
+D:\Desktop\C#\leetspeak\Leetspeak.Solution\leetspeak.tests\bin\Debug\netcoreapp2.2\Leetspeak.Tests.runtimeconfig.dev.json
+D:\Desktop\C#\leetspeak\Leetspeak.Solution\leetspeak.tests\bin\Debug\netcoreapp2.2\Leetspeak.Tests.dll
+D:\Desktop\C#\leetspeak\Leetspeak.Solution\leetspeak.tests\bin\Debug\netcoreapp2.2\Leetspeak.Tests.pdb
+D:\Desktop\C#\leetspeak\Leetspeak.Solution\leetspeak.tests\bin\Debug\netcoreapp2.2\Leetspeak.dll
+D:\Desktop\C#\leetspeak\Leetspeak.Solution\leetspeak.tests\bin\Debug\netcoreapp2.2\Leetspeak.pdb
+D:\Desktop\C#\leetspeak\Leetspeak.Solution\leetspeak.tests\obj\Debug\netcoreapp2.2\Leetspeak.Tests.csproj.CopyComplete
+D:\Desktop\C#\leetspeak\Leetspeak.Solution\leetspeak.tests\obj\Debug\netcoreapp2.2\Leetspeak.Tests.dll
+D:\Desktop\C#\leetspeak\Leetspeak.Solution\leetspeak.tests\obj\Debug\netcoreapp2.2\Leetspeak.Tests.pdb
